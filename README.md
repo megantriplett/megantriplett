@@ -1,1 +1,2 @@
-<h1>Megan Triplett</h1>
+
+![Megan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megantriplett&show_icons=true&include_all_commits=true)
